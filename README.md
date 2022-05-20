@@ -8,7 +8,12 @@ Note: if MD file is in the same directory as md.htm, simple the filename will su
 
 `magnus167.github.io/mdToHTML/md.htm?src=<link_to_md>`
 
-this would look like
+
+You can use this link as a prefix:
+
+`magnus167.github.io/mdToHTML/md.htm?src='
+
+It's freely available for anyone to use
 
 
 
@@ -47,4 +52,14 @@ the raw link is
 
 [`https://raw.githubusercontent.com/Magnus167/mdToHTML/main/README.md`](https://raw.githubusercontent.com/Magnus167/mdToHTML/main/README.md)
  
- the link will look llike 
+## Contributors and License: 
+
+The code uses the repositories : [zhlicen/md.htm](https://github.com/zhlicen/md.htm) and [zerodevx/zero-md](https://github.com/zerodevx/zero-md).  to run. 
+Thank you for your great work!
+
+This particular instance uses [Magnus167/zero-md](https://github.com/Magnus167/zero-md), which is just a clone of [zerodevx/zero-md](https://github.com/zerodevx/zero-md). 
+
+[md.htm](https://github.com/Magnus167/mdToHTML/blob/4a7056eed2c115c7eb1992a17bda2c21dc86365a/md.htm#L4) uses [JSDeliver](https://www.jsdelivr.com/) to get the JS scripts from [Magnus167/zero-md](https://github.com/Magnus167/zero-md).
+
+Anyone is free to use the code here for whatever purposes while keeping in mind the license/permissions for [zhlicen/md.htm](https://github.com/zhlicen/md.htm) and [zerodevx/zero-md](https://github.com/zerodevx/zero-md).
+
