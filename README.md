@@ -11,9 +11,9 @@ Note: if MD file is in the same directory as md.htm, simple the filename will su
 
 You can use this link as a prefix:
 
-`magnus167.github.io/mdToHTML/md.htm?src='
+`magnus167.github.io/mdToHTML/md.htm?src=`
 
-It's freely available for anyone to use
+**It's freely available for anyone to use**
 
 
 
@@ -25,7 +25,7 @@ or
 
 `magnus167.github.io/mdToHTML/md.htm?src=README.md`
 
-since README.md is hosted in the same directory as md.htm
+since [README.md](https://github.com/Magnus167/mdToHTML/blob/main/README.md) is hosted in the same directory as [md.htm](https://github.com/Magnus167/mdToHTML/blob/main/md.htm)
 
 
 ## Note:
