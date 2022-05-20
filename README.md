@@ -4,7 +4,7 @@
 
 `www.yourwebsite.com/md.htm?src=<link_to_md>`
 
-Note: if MD file is in the same directory as md.htm, simple the filename will suffice. 
+Note: if MD file is in the same directory as md.htm, simply the filename will suffice. 
 
 `magnus167.github.io/mdToHTML/md.htm?src=<link_to_md>`
 
