@@ -49,7 +49,7 @@ you can get the raw link by viewing the file on github, and clicking on "raw" ri
 
 Similarly, 
 for this file at 
-`/Magnus167/mdToHTML/README.md` (https://github.com/Magnus167/mdToHTML/README.md)
+`/Magnus167/mdToHTML/README.md` (https://github.com/Magnus167/mdToHTML/blob/main/README.md)
 
 the raw link is 
 
